@@ -1,5 +1,5 @@
 import streamlit as st
-from ragpipeline2 import RAGPipeline
+from RagPipeline import RAGPipeline
 
 st.set_page_config(
     page_title="Constitution of India Assistant",
